@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I’m @MrDaPoyo, and this is my presentation;</h1>
 <p>- 👀 Hi there! I am @MrDaPoyo, I am a self-learner student passionate about learning, aiming to become a full-stack developer. Going from web development to AI, I'm always willing to help!</p>
-<p>- 🌱 I’m currently learning: Web development, Neural networks, Python, Lua...</p>
+<p>- 🌱 I’m currently learning: Web development and ethical hacking</p>
 <p>- 💞️ I’m looking to collaborate on: Virtually everything I can!</p>
 <p>- 📫 How to reach me: </p>
 
