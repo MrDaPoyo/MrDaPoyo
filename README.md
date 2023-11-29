@@ -4,8 +4,8 @@
 <p>- 💞️ I’m looking to collaborate on: Virtually everything I can!</p>
 <p>- 📫 How to reach me: </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdapoyo&label=Profile%20views&color=0e75b6&style=flat" alt="chpsscode" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chpsscode&" alt="mrdapoyo" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdapoyo&label=Profile%20views&color=0e75b6&style=flat" alt="mrdapoyo" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdapoyo&" alt="mrdapoyo" /></p>
 <!---
 MrDaPoyo/MrDaPoyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
